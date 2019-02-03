@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,BBB 2
-http://www.youtube.com/watch?v=KlTK0li5Oag
+https://www.youtube.com/watch?v=KlTK0li5Oag
 #EXTINF:-1,BBB 2 FHD
 http://sspitv.liss.fun:8880/alex123456/alex123456/20078
 #EXTINF:-1,BBB 2 HD
