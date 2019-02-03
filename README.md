@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,CHAVES 01 VAMOS TODOS A ACAPULCO
-https://www.youtube.com/watch?v=KlTK0li5Oag
+https://www.youtube.com/watch?v=KlTK0li5Oag.m3u8
 #EXTINF:-1,CHAVES 02 VIZINHANÇA EM ACAPULCO P.2
 http://www.youtube.com/watch?v=ZPHXTGdBmLM
 #EXTINF:-1,CHAVES 03 A VIZINHANÇA EM ACAPULCO P.3
