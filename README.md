@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Teste canal H265 - SBT
 #EXTINF:-1,BBB 2
 http://www.youtube.com/watch?v=KlTK0li5Oag
 #EXTINF:-1,BBB 2 FHD
