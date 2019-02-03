@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Teste canal H265 - SBT
-http://sspitv.liss.fun:8880/alex123456/alex123456/20075
+https://youtu.be/KlTK0li5Oag
 #EXTINF:-1,BBB 1
 http://sspitv.liss.fun:8880/alex123456/alex123456/18373
 #EXTINF:-1,BBB 1 FHD
